@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
 import Dashboard from './components/Dashboard'
-import {BrowserRouter, Route, Switch } from 'react-router-dom'
+import {HashRouter, Route, Switch } from 'react-router-dom'
 import About from './components/About'
 import Home from './components/Home'
 import Post from './components/Post'
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter basename="/">
     <div>
       <Dashboard>
         <Switch>
@@ -18,7 +18,7 @@ function App() {
         
       </Dashboard>
     </div>
-    </BrowserRouter>
+    </HashRouter>
   )}
 
 export default App;
