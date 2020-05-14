@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.Header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,6 +22,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  animation: header-color-change 5s infinite alternate cubic-bezier(.13,.75,.92,.44);
+}
+@keyframes header-color-change{
+  from{color: blue;}
+  to {color: yellow}
 }
 
 .App-link {
