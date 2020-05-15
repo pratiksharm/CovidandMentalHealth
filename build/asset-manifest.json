@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CovidandMentalHealth/static/css/main.5e86b02c.chunk.css",
+    "main.js": "/CovidandMentalHealth/static/js/main.eed823b2.chunk.js",
+    "main.js.map": "/CovidandMentalHealth/static/js/main.eed823b2.chunk.js.map",
+    "runtime-main.js": "/CovidandMentalHealth/static/js/runtime-main.e59a4a6e.js",
+    "runtime-main.js.map": "/CovidandMentalHealth/static/js/runtime-main.e59a4a6e.js.map",
+    "static/js/2.42f7fe39.chunk.js": "/CovidandMentalHealth/static/js/2.42f7fe39.chunk.js",
+    "static/js/2.42f7fe39.chunk.js.map": "/CovidandMentalHealth/static/js/2.42f7fe39.chunk.js.map",
+    "index.html": "/CovidandMentalHealth/index.html",
+    "precache-manifest.12037ea2ba4805360bfd419f066b6981.js": "/CovidandMentalHealth/precache-manifest.12037ea2ba4805360bfd419f066b6981.js",
+    "service-worker.js": "/CovidandMentalHealth/service-worker.js",
+    "static/css/main.5e86b02c.chunk.css.map": "/CovidandMentalHealth/static/css/main.5e86b02c.chunk.css.map",
+    "static/js/2.42f7fe39.chunk.js.LICENSE.txt": "/CovidandMentalHealth/static/js/2.42f7fe39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e59a4a6e.js",
+    "static/js/2.42f7fe39.chunk.js",
+    "static/css/main.5e86b02c.chunk.css",
+    "static/js/main.eed823b2.chunk.js"
+  ]
+}
